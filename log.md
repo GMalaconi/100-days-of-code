@@ -17,3 +17,9 @@
 **Today's Progress**: Completed CS50's week 2 lab and worked on the problem sets.
 
 **Thoughts**: C can be quite complicated sometimes, but at least know I know how to classify the readability level of a text...
+
+### Day 4: February 22, 2021
+
+**Today's Progress**: Completed CS50's week 2 problem sets and worked on week 3 problem sets.
+
+**Thoughts**: I think the Caesar's cipher project was harder than substitution even though substitution is classified as harder.
